@@ -9,7 +9,7 @@ The project explores robust bipedal locomotion for humanoid robots without relyi
 ### Demo
 Humanoid locomotion rollout:
 
-![Humanoid locomotion demo]([./demonstration.mp4](https://github.com/user-attachments/assets/254cd82b-05a9-4176-921f-144ad972edcf))
+![Humanoid locomotion demo](https://github.com/user-attachments/assets/254cd82b-05a9-4176-921f-144ad972edcf)
 
 The approach targets adaptability in uncertain or dynamic environments by:
 - Leveraging diverse pretrained or learned policies (primitive library)
