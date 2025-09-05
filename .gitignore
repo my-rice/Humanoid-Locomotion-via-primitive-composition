@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Experiments
+experiments/
+
+# LOGS
+*LOG*
+
+# IDE
+.vscode/
+
+# Video files
+videos/
+# CACHE
+*/__pycache__/*
+*/*/__pycache__/*
+
+*/mjpc/*
+experiments/*
